@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Successfully search directory</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4a3e40f1-d507-4947-a37c-6db0011c77be</testCaseGuid>
+   <variable>
+      <defaultValue>'Peter'</defaultValue>
+      <description></description>
+      <id>0bbc0421-1f8d-4891-963c-12e1b9a66b23</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+</TestCaseEntity>

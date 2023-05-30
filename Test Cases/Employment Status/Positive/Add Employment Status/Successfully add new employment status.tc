@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Successfully add new employment status</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7f75006a-f9e7-4d67-9e8a-5b641f788a6c</testCaseGuid>
+   <variable>
+      <defaultValue>'TestName - Employed\r\n'</defaultValue>
+      <description></description>
+      <id>d2d1165c-0a36-42d2-af2c-550ee840f82b</id>
+      <masked>false</masked>
+      <name>employmentStatOne</name>
+   </variable>
+   <variable>
+      <defaultValue>'TestName2 - Contract'</defaultValue>
+      <description></description>
+      <id>6026c4fa-c484-4b6b-82aa-4b3605ea6b7c</id>
+      <masked>false</masked>
+      <name>employmentStatTwo</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User enters existing job category</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0d433314-f295-4928-9695-463afa80d818</testCaseGuid>
+   <variable>
+      <defaultValue>'Software QA'</defaultValue>
+      <description></description>
+      <id>4a3472a8-9bc8-48ff-89ea-00a523585195</id>
+      <masked>false</masked>
+      <name>jobCategoryOne</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User does not enter organization unit name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fdd1c22d-67c0-4cca-af1e-326bf3740099</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Successfully add new job category</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3f92c33d-1ecd-443c-8d82-2bf327848bfb</testCaseGuid>
+   <variable>
+      <defaultValue>'Software QA'</defaultValue>
+      <description></description>
+      <id>447a5d75-cc6f-46f9-b330-b94d2a785f43</id>
+      <masked>false</masked>
+      <name>jobCategoryOne</name>
+   </variable>
+   <variable>
+      <defaultValue>'Devops'</defaultValue>
+      <description></description>
+      <id>38e102de-4d4f-467f-9f32-d0db41e62c24</id>
+      <masked>false</masked>
+      <name>jobCategoryTwo</name>
+   </variable>
+</TestCaseEntity>

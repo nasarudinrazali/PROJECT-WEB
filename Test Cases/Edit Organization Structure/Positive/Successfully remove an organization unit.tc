@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Successfully remove an organization unit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>83ecf15b-fdfb-4cbd-921c-728b2db78677</testCaseGuid>
+</TestCaseEntity>
